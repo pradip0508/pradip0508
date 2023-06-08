@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradeep Bhandari</h1>
 <h3 align="center">A passionate frontend developer and learner from India</h3>
 
-- 🌱 I’m currently learning **ReactJs, Machine Learning**
+- 🌱 I’m currently learning **ReactJs, ExpressJs, NodeJs Machine Learning**
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **pradeepbhandari0508@gmail.com**
+- 📫 Reach me at **pradeepbhandari0508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
