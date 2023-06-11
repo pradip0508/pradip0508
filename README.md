@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Bhandari</h1>
 <h3 align="center">A passionate Frontend Developer and Machine Learning Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **ReactJs, ExpressJs, NodeJs Machine Learning**
+- 🌱 I’m currently learning **ReactJs, ExpressJs, NodeJs, Machine Learning**
 
 - 📫 Reach me at **pradeepbhandari0508@gmail.com**
 
