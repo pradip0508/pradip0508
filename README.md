@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Bhandari</h1>
-<h3 align="center">An aspiring Software Developer and a passionate Web Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">An aspiring Software Developer with a passion of  Web Development and also a Machine Learning Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **MERN & Machine Learning**
 
